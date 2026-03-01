@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "1.0.6",
-    "@nuxt/eslint-config": "^0.2.0",
+    "@nuxt/eslint-config": "^1.15.2",
     "@nuxthq/studio": "^1.0.5",
     "eslint": "^8.55.0",
     "typescript": "^5.3.3",
